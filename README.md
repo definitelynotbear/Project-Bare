@@ -1,2 +1,2 @@
 # Project-Bare
-Pushing scratch to it's limits!
+This is a test of how hard we can push the limits of scratch!
